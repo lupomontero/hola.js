@@ -1,0 +1,26 @@
+body {
+  background-color: #222;
+  padding: 10px;
+}
+
+#formulario-nota {
+  margin-bottom: 10px;
+}
+
+#sin-notas {
+  color: #666;
+  font-style: italic;
+}
+
+.favorita {
+  background-color: #F6FF7A;
+}
+
+.list-group-item {
+  border-color: #D6D6D6;
+}
+
+.nota-fecha {
+  color: #999;
+  font-size: 0.8em;
+}
