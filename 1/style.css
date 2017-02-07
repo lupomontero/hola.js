@@ -4,7 +4,9 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: monospace;
-}    
+}
+
+/* https://css-tricks.com/centering-in-the-unknown/ */
 
 body {
   display: table;
